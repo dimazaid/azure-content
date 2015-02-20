@@ -26,7 +26,7 @@ If you haven't yet [set up Application Insights for your project][start], do tha
 
 When you run your application, it will send some telemetry that will show up in Diagnostic Search, including requests received by the server, page views logged at the client, and uncaught exceptions.
 
-Open Diagnostic Search to see the telemetry that the SDK automatically sends.
+Open Diagnostic Search to see the telemetry that the SDK automatically sends:
 
 ![](./media/appinsights/appinsights-45diagnostic.png)
 
